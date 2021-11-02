@@ -1,0 +1,12 @@
+.main{
+    background-color: red;
+    color: black;
+    height: auto;
+    width: auto;
+    margin-top: 5px;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-row: 3;
+    display: flexbox;
+    
+}
